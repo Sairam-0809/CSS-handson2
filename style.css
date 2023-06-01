@@ -140,3 +140,8 @@ box-sizing: border-box;
   .items h1 {
     font-size: 40px;
   }
+  body{
+    background-image: url("./sky.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
